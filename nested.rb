@@ -87,6 +87,7 @@ def adding_matz
       :languages => ["LISP", "C"]
       }
     }
+  end
 end
 
 def changing_alan
